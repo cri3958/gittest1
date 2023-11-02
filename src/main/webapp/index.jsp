@@ -13,10 +13,9 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>이호진</LI>
-          <LI>김동욱</LI>
-          <LI></LI>
-          <LI></LI>
+          <LI>팀장</LI>
+          <LI>펭귄</LI>
+          <LI>이그고</LI>
       </OL>
   </DIV> 
 </body>
